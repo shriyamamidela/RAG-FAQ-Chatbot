@@ -1,0 +1,136 @@
+# FAQ Chatbot Sample Data
+
+## Myntra Return Policy
+Q: What is Myntra's return policy?
+A: Myntra offers a 30-day return policy for most items. You can return products within 30 days of delivery for a full refund. Items must be in original condition with tags attached. Some items like innerwear, cosmetics, and personalized items are not eligible for return.
+
+Q: How do I initiate a return on Myntra?
+A: To initiate a return, go to 'My Orders' section, select the item you want to return, and click on 'Return'. You can choose between pickup service or self-ship. For pickup service, Myntra will arrange collection from your address.
+
+Q: What is the refund process timeline?
+A: Once your return is received and verified, refunds are processed within 3-5 business days. The refund will be credited to your original payment method. For cash on delivery orders, refunds are processed via bank transfer.
+
+## Delivery Information
+Q: What are Myntra's delivery options?
+A: Myntra offers standard delivery (3-5 days), express delivery (1-2 days), and same-day delivery in select cities. Express delivery is available for orders placed before 12 PM. Same-day delivery is available in major metros for orders placed before 10 AM.
+
+Q: How much does delivery cost?
+A: Standard delivery is free for orders above Rs. 999. Express delivery costs Rs. 99. Same-day delivery costs Rs. 199. COD orders have an additional Rs. 30 charge.
+
+Q: Can I track my order?
+A: Yes, you can track your order using the tracking ID provided in your order confirmation email or SMS. You can also track orders through the Myntra app or website under 'My Orders' section.
+
+## Account and Payment
+Q: How do I create a Myntra account?
+A: You can create an account by downloading the Myntra app or visiting the website. Click on 'Sign Up' and enter your mobile number or email address. Verify your account using the OTP sent to your mobile or email.
+
+Q: What payment methods does Myntra accept?
+A: Myntra accepts credit cards, debit cards, net banking, UPI, digital wallets (Paytm, PhonePe, Google Pay), EMI options, and cash on delivery (COD).
+
+Q: Is my payment information secure?
+A: Yes, Myntra uses industry-standard SSL encryption to protect your payment information. All transactions are processed through secure payment gateways.
+
+## Product Information
+Q: How do I find my size on Myntra?
+A: Myntra provides detailed size charts for each product. You can find size guides in the product description. The app also offers a 'Size & Fit' feature that recommends sizes based on your previous purchases.
+
+Q: What if the product doesn't fit?
+A: If the product doesn't fit, you can return it within 30 days as per Myntra's return policy. Make sure the item is in original condition with tags attached.
+
+Q: Are the product images accurate?
+A: Myntra strives to provide accurate product images. However, actual colors may vary slightly due to screen settings and lighting conditions. Product descriptions provide detailed information about materials and features.
+
+## Customer Support
+Q: How can I contact Myntra customer support?
+A: You can contact Myntra support through the app's 'Help & Support' section, email at support@myntra.com, or call their toll-free number 1800-419-0505. Live chat is also available on the website.
+
+Q: What are Myntra's customer support hours?
+A: Customer support is available 24/7 through the app and website. Phone support is available from 9 AM to 9 PM, Monday to Sunday.
+
+Q: How do I report a problem with my order?
+A: You can report order issues through the 'My Orders' section by selecting the specific order and clicking on 'Report Issue'. You can also contact customer support directly for immediate assistance.
+
+
+## About Myntra
+Q: What is Myntra?
+A: Myntra is an Indian fashion and lifestyle e-commerce platform offering apparel, footwear, accessories, beauty, personal care, and home lifestyle products from a wide range of brands.
+
+Q: What do they sell?
+A: Myntra sells men's, women's, and kids' clothing, footwear, fashion accessories, watches, bags, beauty and personal care products, and select home and lifestyle items such as bedsheets, towels, and decor.
+
+Q: What is the price range on Myntra?
+A: Myntra carries products across budget and premium segments. Typical entry prices start around Rs. 200–500 for basics and accessories, mid-range items are commonly Rs. 800–2,500, and premium/branded pieces can go above Rs. 3,000, with select designer items higher. Actual prices vary by brand, category, season, and offers.
+
+Q: Is Myntra a marketplace?
+A: Yes, Myntra operates as a curated marketplace partnering with brands and sellers. Products are sold either by Myntra or verified third-party sellers, with quality checks and policies enforced by Myntra.
+
+Q: Do products on Myntra come with brand warranty?
+A: Many branded products carry manufacturer warranty as per brand policy. Warranty details are typically listed on the product page. Keep invoices and tags for warranty claims.
+
+## Orders and Tracking
+Q: How do I track my shipment in real-time?
+A: Go to 'My Orders', select your order, and click 'Track'. You can view the latest scan events and estimated delivery date. Tracking ID is also shared via SMS/email.
+
+Q: Can I change my delivery address after placing an order?
+A: Address changes are limited once an order is processed. If the 'Edit Address' option is visible in 'My Orders' before dispatch, you can update it. Otherwise, cancel and reorder with the correct address.
+
+Q: What if my package is delayed?
+A: Delays can occur due to logistics constraints or unforeseen events. Check the updated ETA in 'My Orders'. If it exceeds the ETA by 48 hours, contact support for assistance or a resolution.
+
+## Cancellations and Modifications
+Q: How do I cancel an order?
+A: Go to 'My Orders', select the item, and choose 'Cancel'. If the order has not been packed or shipped, it will cancel instantly and any prepaid amount will be refunded.
+
+Q: Can I modify the size or color after placing the order?
+A: Post-order modifications are not supported. Cancel before dispatch and place a new order with the desired size or color.
+
+## Returns and Exchanges
+Q: Is exchange available for size issues?
+A: Yes, many items support size exchange within 30 days. Availability depends on stock. Initiate from 'My Orders' by choosing 'Exchange' and selecting the new size.
+
+Q: Will I be charged for returns pickup?
+A: No, returns pickup is free for eligible items. Some pin codes may require self-ship; reimbursement limits are mentioned during the return flow.
+
+Q: What if the pickup is missed?
+A: The delivery partner will make additional attempts. You can reschedule from the returns page in 'My Orders' or contact support to arrange a new pickup time.
+
+## Payments and Refunds
+Q: Do you support Pay on Delivery (COD)?
+A: Yes, COD is available for eligible pin codes and orders. A nominal fee may apply. High-value orders or certain categories may not be eligible.
+
+Q: How long do refunds take after return pickup?
+A: Refunds are typically initiated within 24–48 hours after quality check at the warehouse and reflect in 3–5 business days depending on the payment method.
+
+Q: Can I split payments across methods?
+A: Split payments are supported in limited cases (e.g., wallet + card) as shown at checkout. Availability may vary based on promotions and instruments.
+
+## Offers and Coupons
+Q: How do I apply a coupon code?
+A: On the cart or checkout page, enter your coupon code in the 'Apply Coupon' field. If the code is valid for your cart, the discount will be applied before payment.
+
+Q: Why is my coupon not working?
+A: Coupons have terms like minimum order value, category or brand exclusions, first-order limits, and validity dates. Review the T&Cs on the offers page and ensure your cart meets the criteria.
+
+Q: Can I use multiple coupons on one order?
+A: Generally, only one coupon can be applied per order. You can combine a coupon with bank/UPI offers where specified.
+
+## Account and Security
+Q: I didn’t receive my OTP—what should I do?
+A: Wait a minute and request again. Ensure network coverage and that your number/email is correct. Check spam folders for email OTP. If the issue persists, contact support.
+
+Q: How do I delete my Myntra account?
+A: Go to 'Account Settings' > 'Privacy' > 'Delete Account'. Follow the verification steps. Note that order history and credits will be permanently removed.
+
+## Products and Authenticity
+Q: Are products on Myntra authentic?
+A: Myntra partners directly with brands and authorized sellers. Products undergo checks to ensure authenticity. Report any concerns via 'Help & Support'.
+
+Q: How do I find the right size?
+A: Use the size chart on the product page and the 'Size & Fit' recommendations based on your past purchases. Customer reviews can also help.
+
+## Shipping and Delivery
+Q: Do you ship to my PIN code?
+A: Enter your PIN code on the product page to check delivery availability and estimated delivery time for your location.
+
+Q: Is same-day delivery available in my city?
+A: Same-day delivery is available in select metro cities for eligible products ordered before the cut-off time. Availability is shown at checkout.
